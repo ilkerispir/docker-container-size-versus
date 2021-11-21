@@ -27,3 +27,9 @@ node-helloworld   latest    56e3d7f8ed93   37 seconds ago   110MB
 REPOSITORY          TAG       IMAGE ID       CREATED         SIZE
 python-helloworld   latest    32ae001337f2   9 seconds ago   55MB
 ```
+## C++
+```
+[ilker@ilker-pc docker-container-size-versus]$ docker images cpp-helloworld
+REPOSITORY       TAG       IMAGE ID       CREATED              SIZE
+cpp-helloworld   latest    f57899021450   About a minute ago   1.21MB
+```
