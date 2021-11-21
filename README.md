@@ -1,6 +1,6 @@
 # Comparison of size by programming languages in Docker Container
 
-## Goloang
+## Golang
 ```
 [ilker@ilker-pc golang]$ docker images go-helloworld
 REPOSITORY      TAG       IMAGE ID       CREATED          SIZE
