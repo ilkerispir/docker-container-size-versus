@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLh0pK4ijq7P2/wwCxMVuvIWQ+vJl2VPmShpGfU2KGYcFTa7NXR4Er4pkPAmnZhGYHoA4iEZbbwA1GXb1BE+4g==",
+  "success": true,
+  "projectFilePath": "/home/ilker/workspace/docker-container-size-versus/dotnet/dotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/ilker/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
