@@ -29,15 +29,22 @@ python-helloworld   latest    32ae001337f2   9 seconds ago   55MB
 ```
 ## C++
 ```
-[ilker@ilker-pc docker-container-size-versus]$ docker images cpp-helloworld
+[ilker@ilker-pc cpp]$ docker images cpp-helloworld
 REPOSITORY       TAG       IMAGE ID       CREATED              SIZE
 cpp-helloworld   latest    f57899021450   About a minute ago   1.21MB
 ```
 
 ## Ruby
-
 ```
 [ilker@ilker-pc ruby]$ docker images ruby-helloworld
 REPOSITORY        TAG       IMAGE ID       CREATED              SIZE
 ruby-helloworld   latest    8d41777e969d   About a minute ago   81.9M
+```
+
+
+## PHP
+```
+[ilker@ilker-pc php]$ docker images php-helloworld
+REPOSITORY       TAG       IMAGE ID       CREATED              SIZE
+php-helloworld   latest    6bc297088674   About a minute ago   473MB
 ```
