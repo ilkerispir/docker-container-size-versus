@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ilkerispir/docker-container-size-versus"
+  },
+  "keywords": [
+    "olleybe"
+  ],
+  "author": "ilker ispir",
+  "license": "ISC"
+}
